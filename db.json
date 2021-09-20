@@ -101,14 +101,14 @@
         },
         {
             "tanggal": "20 September 2021",
-            "investor": 610,
-            "rri": 310,
-            "tempo": 10,
-            "tribun": 10,
-            "wartakota": 10,
-            "gatra": 610,
-            "terbit": 10,
-            "total": 1570
+            "investor": 1120,
+            "rri": 1120,
+            "tempo": 200,
+            "tribun": 20,
+            "wartakota": 20,
+            "gatra": 1120,
+            "terbit": 20,
+            "total": 2620
         }
     ]
 }
