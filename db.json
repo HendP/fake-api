@@ -109,6 +109,17 @@
             "gatra": 1120,
             "terbit": 20,
             "total": 3620
+        },
+        {
+            "tanggal": "21 September 2021",
+            "investor": 60,
+            "rri": 60,
+            "tempo": 60,
+            "tribun": 60,
+            "wartakota": 60,
+            "gatra": 60,
+            "terbit": 60,
+            "total": 420
         }
     ]
 }
