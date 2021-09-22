@@ -120,6 +120,28 @@
             "gatra": 60,
             "terbit": 60,
             "total": 420
-        }
+        },
+        {
+            "tanggal": "22 September 2021",
+            "investor": 90,
+            "rri": 90,
+            "tempo": 90,
+            "tribun": 90,
+            "wartakota": 90,
+            "gatra": 90,
+            "terbit": 90,
+            "total": 630
+        },
+        {
+            "tanggal": "23 September 2021",
+            "investor": 90,
+            "rri": 90,
+            "tempo": 90,
+            "tribun": 90,
+            "wartakota": 90,
+            "gatra": 90,
+            "terbit": 90,
+            "total": 630
+        },
     ]
 }
